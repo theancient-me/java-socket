@@ -1,4 +1,4 @@
-package com.noniolab3;
+package com.nio;
 
 import java.net.InetSocketAddress;
 import java.nio.ByteBuffer;
